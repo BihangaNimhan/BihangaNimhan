@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BihangaNimhan
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Laravel
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on website making
 - 📫 How to reach me https://www.facebook.com/bihanga.nimhan/
 
