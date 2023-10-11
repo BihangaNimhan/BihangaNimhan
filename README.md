@@ -13,3 +13,4 @@ BihangaNimhan/BihangaNimhan is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 [![Deploy to cPanel](https://github.com/BihangaNimhan/Invoice_System/actions/workflows/deploy.yml/badge.svg)](https://github.com/BihangaNimhan/Invoice_System/actions/workflows/deploy.yml)
+[![🚀 Deploy ftp on push](https://github.com/BihangaNimhan/My_Portfolio/actions/workflows/ftp-upload.yml/badge.svg)](https://github.com/BihangaNimhan/My_Portfolio/actions/workflows/ftp-upload.yml)
