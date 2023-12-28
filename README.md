@@ -16,11 +16,6 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=BihangaNimhan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
 <div align="center">
             <a href="https://paypal.me/BihangaNimhan" target="_blank" style="display: inline-block;">
                 <img
