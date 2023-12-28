@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Website and Software development.<br>👯 I’m looking to collaborate on AI based fevelopments.<br>🤝 I’m looking for help with improve my coding skills.<br>🌱 I’m currently learning React.<br>💬 Ask me about PHP development.<br>⚡ Fun fact  "Did you know that the term 'bug' to describe a computer program error dates back to 1947 when Grace Hopper, a computer scientist, found a moth stuck in a relay of the Harvard Mark II computer? She removed the moth and taped it into the computer's logbook, coining the term 'debugging' in the process. So, every time I code, I'm helping keep those bugs at bay!"
+🔭 I’m currently working on Website and Software development.<br>👯 I’m looking to collaborate on AI based developments.<br>🤝 I’m looking for help with improve my coding skills.<br>🌱 I’m currently learning React.<br>💬 Ask me about PHP development.<br>⚡ Fun fact  "Did you know that the term 'bug' to describe a computer program error dates back to 1947 when Grace Hopper, a computer scientist, found a moth stuck in a relay of the Harvard Mark II computer? She removed the moth and taped it into the computer's logbook, coining the term 'debugging' in the process. So, every time I code, I'm helping keep those bugs at bay!"
 
 
 ## 🌐 Socials:
